@@ -1,16 +1,15 @@
 .header {
-  background-image: url(https://img.freepik.com/free-photo/buddha-bowl-dish-with-vegetables-legumes-top-view_1150-42589.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699315200&semt=ais);
+  background: linear-gradient(rgba(21, 21, 21, 0.2), rgba(21, 21, 21, 0.3)),
+    url(https://img.freepik.com/free-photo/buddha-bowl-dish-with-vegetables-legumes-top-view_1150-42589.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699315200&semt=ais);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position:center;
+  background-position: center;
 }
 
 .food-item {
   height: 100px;
   box-shadow: 2px 2px 5px rgb(138, 138, 138);
 }
-
-
 
 .food-content {
   width: 70%;

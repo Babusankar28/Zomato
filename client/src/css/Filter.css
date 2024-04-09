@@ -1,0 +1,14 @@
+
+  .header-filter {
+    background-color: rgb(198, 53, 0);
+  }
+  .header-filter .container .logo img {
+    border-radius: 50%;
+    width: 50px;
+  }
+  .header-filter .container .buttons a {
+    color: white;
+    text-decoration: none;
+  }
+
+ 
