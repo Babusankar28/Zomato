@@ -6,7 +6,7 @@ function Header() {
       <div class="container d-flex justify-content-between  align-items-center">
         <div class="logo">
           <img
-            src="https://play-lh.googleusercontent.com/Fro4e_osoDhhrjgiZ_Y2C5FNXBMWvrb4rGpmkM1PDAcUPXeiAlPCq7NeaT4Q6NRUxRqo"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAHXPluq6GtTRPDIHRv5kJPy86uFjp5sO7hg&usqp=CAU"
             alt="logo"
           />
         </div>
