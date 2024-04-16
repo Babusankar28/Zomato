@@ -6,7 +6,7 @@ function Filter() {
   return (
     <>
       <Header />
-      <div className="container p-2">
+      <div className="container filter p-2">
         <h1>Breakfast Place in Mumbai</h1>
         <div className="row">
           <div className="col-lg-3">
@@ -158,10 +158,54 @@ function Filter() {
               </div>
             </div>
           </div>
-          <div className="col-lg-9">
-            <div className="h-100">
-              <Card />
-              <Card />
+          <div className="col-lg-9 col-12">
+            <div>
+              <Card title="The Big Chill Cakery" />
+              <Card title="The Bake Shop" />
+            </div>
+            <div className="page-button d-flex justify-content-center gap-3 mt-5">
+              <button
+                type="button"
+                className="btn btn-outline-secondary btn-sm "
+              >
+                <i className="bi bi-chevron-left"></i>
+              </button>
+              <button
+                type="button"
+                className="btn btn-outline-secondary btn-sm "
+              >
+                1
+              </button>
+              <button
+                type="button"
+                className="btn btn-outline-secondary btn-sm "
+              >
+                2
+              </button>
+              <button
+                type="button"
+                className="btn btn-outline-secondary btn-sm "
+              >
+                3
+              </button>
+              <button
+                type="button"
+                className="btn btn-outline-secondary btn-sm "
+              >
+                4
+              </button>
+              <button
+                type="button"
+                className="btn btn-outline-secondary btn-sm "
+              >
+                5
+              </button>
+              <button
+                type="button"
+                className="btn btn-outline-secondary btn-sm "
+              >
+                <i className="bi bi-chevron-right"></i>
+              </button>
             </div>
           </div>
         </div>

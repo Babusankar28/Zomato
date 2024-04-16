@@ -11,6 +11,6 @@
   box-shadow: 2px 2px 5px rgb(138, 138, 138);
 }
 
-.food-content {
+.food-item .food-content {
   width: 70%;
 }

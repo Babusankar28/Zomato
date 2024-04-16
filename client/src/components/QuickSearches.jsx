@@ -9,12 +9,12 @@ function QuickSearches() {
         <p className="text-muted">Discover restaurent by type of meal</p>
       </div>
       <div class="row g-4">
-        <QuickSearch/>
-        <QuickSearch/>
-        <QuickSearch/>
-        <QuickSearch/>
-        <QuickSearch/>
-        <QuickSearch/>
+        <QuickSearch />
+        <QuickSearch />
+        <QuickSearch />
+        <QuickSearch />
+        <QuickSearch />
+        <QuickSearch />
       </div>
     </div>
   );
