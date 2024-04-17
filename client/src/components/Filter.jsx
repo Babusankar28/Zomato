@@ -23,7 +23,10 @@ function Filter() {
                   name="location"
                   id="location"
                   className="form-select"
-                ></select>
+                >
+                  <option>Mumbai</option>
+                  <option>Madurai</option>
+                </select>
               </div>
               <div className="mt-3">
                 <h6 className="text-muted fs-6 fw-semibold">Cuisines</h6>
