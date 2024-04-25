@@ -1,7 +1,7 @@
 import "./App.css";
 import { Router } from "./components/Router";
 
-function App() {
+function App(props) {
   return (
     <>
       <Router/>

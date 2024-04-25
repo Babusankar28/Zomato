@@ -6,7 +6,7 @@ function Card({ title }) {
       <div className="food-content py-2 d-flex gap-4 align-items-center border-bottom border-dark">
         <div className="food-img">
           <img
-            class="rounded shadow"
+            className="rounded shadow"
             src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D"
             height="80px"
             alt="logo"

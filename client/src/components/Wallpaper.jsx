@@ -1,25 +1,10 @@
 import React from "react";
-
+import Header from './Header'
 function Wallpaper() {
   return (
     <header className="container-fluid header">
+      <Header />
       <div className="container">
-        <div className="row">
-          <div className="navbar navbar-expand navbar-dark bg-transparent">
-            <div className="navbar-nav ms-auto">
-              <div className="nav-item">
-                <a href="/" className="nav-link text-light">
-                  Login
-                </a>
-              </div>
-              <div className="nav-item">
-                <button className="btn btn-outline-light " type="button">
-                  Create an account
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
         <div className="offset-md-1 col-md-10 col-lg-8 offset-lg-2 py-5">
           <div className="d-flex align-items-center justify-content-center flex-column">
             <div className="my-3">
